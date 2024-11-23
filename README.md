@@ -1,2 +1,2 @@
 # todo-list-flask
-simple todo app using flask and postgresql
+simple todo app using flask
