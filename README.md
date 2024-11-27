@@ -1,2 +1,2 @@
 # todo-list-flask
-simple todo app using flask
+Simple todo app using flask with features like add, edit, check & delete.
